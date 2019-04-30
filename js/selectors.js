@@ -21,3 +21,15 @@ function firstListItem() {
     return $("#pic-list li:first-child")
 }
 
+$(document).ready(function() {
+    console.log(ninjaBabySelector()
+    )
+});
+
+
+
+
+
+
+
+
